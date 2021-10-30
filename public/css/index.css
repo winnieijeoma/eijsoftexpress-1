@@ -1,0 +1,109 @@
+.logo_design {
+  height: 99px;
+width: 114px;
+left: 131px;
+top: 55px;
+border-radius: 0px;
+margin-top: 55px;
+margin-bottom: 32px;
+}
+.input_box {
+  height: 37.01px;
+  width: 243px;
+  padding-left: 6.64px;
+  left: 66px;
+  margin:0 66px 23.13px 66px;
+  top: 186px;
+  border-radius: 5px;
+  background: #C4C4C433;
+}
+/* .input:focus {
+  outline: none !important;
+  border:1px solid #61C2E1;
+  box-shadow: 0 0 10px #61C2E1;
+} */
+::placeholder {
+  font-family: Nunito;
+  color: #00000080;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.secondary_input_box {
+  height: 37.01px;
+  width: 103.574px;
+  padding-left: 6.64px;
+  left: 66px;
+  margin:0 35.33px 0 66px;
+  top: 186px;
+  border-radius: 5px;
+  background: #C4C4C433;  
+}
+.secondary_input_box2 {
+  height: 37.01px;
+  width: 103.574px;
+  padding-left: 6.64px;
+  left: 66px;
+  margin:0px;
+  top: 186px;
+  border-radius: 5px;
+  background: #C4C4C433;  
+}
+.text {
+  font-family: Nunito;
+font-size: 12px;
+color: #00000080;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+}
+.text2 {
+  font-family: Nunito;
+  color: #00000080;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+}
+.checkbox {
+  height: 18.505px;
+  background: #C4C4C433;
+width: 21.246px;
+border: none;
+border-radius: 5px;
+background-color: #C4C4C433;
+}
+.Rgn-btn {
+  height: 39.32px;
+  background: #00000080;
+width: 82.32px;
+background: #61C2E1;
+border-radius: 5px;
+font-family: Nunito;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+margin-left: 127px;
+margin-right: 165px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
